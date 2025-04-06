@@ -15,8 +15,8 @@ Before starting, ensure your system has the following installed:
 1. **Clone the Repository**  
 
    ```bash
-   git clone https://github.com/hilda-karakhanyan/redis-task.git
-   cd redis-task
+   git clone https://github.com/HildaKar/redis-collections.git
+   cd redis-collections
    ```
 
 2. **Build the Project**  
@@ -46,7 +46,7 @@ You can validate the functionality of the RedisBackedQueue and RedisBackedMap in
 
    Observe the console output to verify the operations.
 
-1. **Run the tests**  
+2. **Run the tests**  
 
    Have docker running in your environment, then execute the tests to ensure that the Redis-backed collections work as expected:
 
